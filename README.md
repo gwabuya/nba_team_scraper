@@ -27,3 +27,5 @@ It saves the results in both **CSV** and **JSON** formats, with **timestamped fi
 ```bash
 git clone git@github.com:gwabuya/nba_team_scraper.git
 cd nba_team_scraper
+
+📄 [Read full project summary](./PROJECT_SUMMARY.md)

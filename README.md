@@ -1,5 +1,6 @@
 
-# NBA Moneyline Odds Scraper
+# 🏀 NBA Moneyline Odds Scraper
+
 
 NBA Moneyline Odds Scraper
 Scrapes NBA team betting odds (moneyline) from VegasInsider using Selenium and pandas. Saves output to timestamped CSV and JSON files.
@@ -9,6 +10,12 @@ Scrapes NBA team betting odds (moneyline) from VegasInsider using Selenium and p
 This project scrapes NBA team moneyline odds from [VegasInsider](https://www.vegasinsider.com/nba/odds/money-line/) using Python, Selenium, and pandas.
 
 It saves the results in both **CSV** and **JSON** formats, with **timestamped filenames** for easy recordkeeping.
+
+
+This project scrapes NBA team moneyline odds from [VegasInsider](https://www.vegasinsider.com/nba/odds/money-line/) using Python, Selenium, and pandas.
+
+It saves the results in both **CSV** and **JSON** formats, with **timestamped filenames** for easy recordkeeping.
+
 
 ---
 
@@ -27,5 +34,43 @@ It saves the results in both **CSV** and **JSON** formats, with **timestamped fi
 ```bash
 git clone git@github.com:gwabuya/nba_team_scraper.git
 cd nba_team_scraper
+<<<<<<< HEAD
 
 📄 [Read full project summary](./PROJECT_SUMMARY.md)
+=======
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the scraper
+```bash
+python scraper_main.py
+```
+
+---
+
+## 📁 Output
+
+Results are saved in the `output/` folder:
+```
+output/
+├── nba_team_odds_YYYYMMDD_HHMMSS.csv
+└── nba_team_odds_YYYYMMDD_HHMMSS.json
+```
+
+---
+
+## 📘 Documentation
+
+📄 [Read full project summary](./PROJECT_SUMMARY.md)
+
+---
+
+## ✍️ Author
+
+**George Abuya**  
+[GitHub Profile](https://github.com/gwabuya)
+>>>>>>> 4c599fc (Update README with project summary link enhancements)

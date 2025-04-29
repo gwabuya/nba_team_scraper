@@ -1,0 +1,44 @@
+[
+  {
+    "Team1":"Cleveland Cavaliers",
+    "Team2":"Miami Heat",
+    "Odds1":"-375",
+    "Odds2":"+340"
+  },
+  {
+    "Team1":"Houston Rockets",
+    "Team2":"Golden State Warriors",
+    "Odds1":"+150",
+    "Odds2":"-170"
+  },
+  {
+    "Team1":"Milwaukee Bucks",
+    "Team2":"Indiana Pacers",
+    "Odds1":"+250",
+    "Odds2":"-290"
+  },
+  {
+    "Team1":"Detroit Pistons",
+    "Team2":"New York Knicks",
+    "Odds1":"+188",
+    "Odds2":"-215"
+  },
+  {
+    "Team1":"Orlando Magic",
+    "Team2":"Boston Celtics",
+    "Odds1":"+505",
+    "Odds2":"-700"
+  },
+  {
+    "Team1":"Los Angeles Clippers",
+    "Team2":"Denver Nuggets",
+    "Odds1":"-120",
+    "Odds2":"+112"
+  },
+  {
+    "Team1":"Minnesota Timberwolves",
+    "Team2":"Los Angeles Lakers",
+    "Odds1":"+200",
+    "Odds2":"-225"
+  }
+]
